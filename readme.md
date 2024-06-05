@@ -48,7 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="lightroom" width="40" height="40"/> 
 </a>
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"> 
-  <img src="https://avatars.githubusercontent.com/u/34279494?s=200&v=4" alt="ejs" width="40" height="40"/> 
+  <img src="https://www.svgrepo.com/show/373574/ejs.svg" alt="ejs" width="40" height="40"/> 
 </a>
 
 </p>

@@ -36,11 +36,20 @@
 <a href="https://flutterflow.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/73888446?s=200&v=4" alt="flutterflow" width="40" height="40"/> </a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-icon.svg" alt="microsoft office" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617)" alt="photoshop" width="40" height="40"/> </a> 
+
 <a href="https://lightroom.adobe.com" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc/icons/lightroom-mobile.svg" alt="lightroom" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
-<a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="[https://avatars.githubusercontent.com/u/31715367?s=200&v=4](https://images.app.goo.gl/oL9aoyL7j2LsYAoL6)" alt="ejs" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+</a>
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="lightroom" width="40" height="40"/> 
+</a>
+<a href="https://ejs.co/" target="_blank" rel="noreferrer"> 
+  <img src="https://avatars.githubusercontent.com/u/34279494?s=200&v=4" alt="ejs" width="40" height="40"/> 
+</a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmithShetty12&show_icons=true&locale=en&layout=compact" alt="AmithShetty12" /></p>

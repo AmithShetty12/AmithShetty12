@@ -1,5 +1,3 @@
-![Amith M Shetty](https://img.freepik.com/premium-vector/abstract-modern-blue-banner-background-design-with-health-icons-symbols-template-design-with-concept-idea-healthcare-technology-innovation-medicine-health-science-research_181182-15845.jpg?w=1380)
-
 <h1 align="center">Hi 👋, I'm Amith Shetty</h1>
 <h3 align="center">A Computer Science Student with a Passion for Software Development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmithShetty12&label=Profile%20views&color=0e75b6&style=flat" alt="AmithShetty12" /> </p>
@@ -34,9 +32,15 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-icon.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://lightroom.adobe.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_lightroom/adobe_lightroom-icon.svg" alt="lightroom" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
+<a href="https://flutterflow.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/73888446?s=200&v=4" alt="flutterflow" width="40" height="40"/> </a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-icon.svg" alt="microsoft office" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://lightroom.adobe.com" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc/icons/lightroom-mobile.svg" alt="lightroom" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
+<a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/31715367?s=200&v=4" alt="ejs" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmithShetty12&show_icons=true&locale=en&layout=compact" alt="AmithShetty12" /></p>
@@ -45,4 +49,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmithShetty12&" alt="AmithShetty12" /></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

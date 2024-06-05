@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmithShetty12" alt="AmithShetty12" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vagughasi" target="blank"><img src="https://img.shields.io/twitter/follow/vagughasi?logo=twitter&style=for-the-badge" alt="vagughasi" /></a> </p>
 
 - 🔭 I’m currently working on **Java and Python projects**
 

@@ -35,9 +35,9 @@
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
 <a href="https://flutterflow.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/73888446?s=200&v=4" alt="flutterflow" width="40" height="40"/> </a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-icon.svg" alt="microsoft office" width="40" height="40"/> </a>
-
-<a href="https://lightroom.adobe.com" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc/icons/lightroom-mobile.svg" alt="lightroom" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft office" width="40" height="40"/>
+</a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 

@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/amith-shetty-1166b7242/](https://www.linkedin.com/in/amith-shetty-1166b7242/)
 
+- 🎥 Check out the YouTube channel I manage: [YouTube Channel Link](https://www.youtube.com/channel/UCQFTpgP1FYHWjjjl0QTQZhw)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/AmithSh41324127" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png" alt="Amith Shetty" height="30" width="40" /></a>

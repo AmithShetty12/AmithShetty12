@@ -13,7 +13,7 @@
 
 - 📫 Reach me via email: **amithmanjushetty@gmail.com**
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/amith-shetty-1166b7242/](https://www.linkedin.com/in/amith-shetty-1166b7242/)
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/amithshetty12/)
 
 - 🎥 Check out the YouTube channel I manage:   <a href="https://www.youtube.com/channel/UCQFTpgP1FYHWjjjl0QTQZhw" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />

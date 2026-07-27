@@ -1,319 +1,235 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Amith+M+Shetty;M.Tech+Computer+Science+Student;Machine+Learning+Engineer;Full+Stack+Developer;MLOps+Enthusiast;Always+Learning+Something+New!" />
-</h1>
+<div align="center">
+
+<img src="https://capsule-render.com/api?type=waving&color=0:0f2027,50:2c5364,100:1a1a4a&height=220&section=header&text=Hi,%20I'm%20Amith%20M%20Shetty%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.Tech%20Computer%20Science%20Student&descAlignY=58&descSize=20&descColor=87CEEB" width="100%"/>
 
-<h3 align="center">
-Building AI-powered applications • Exploring MLOps • Creating impactful software
-</h3>
+<img src="https://img.shields.io/badge/-MACHINE%20LEARNING%20ENGINEER-1e3a8a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-FULL%20STACK%20DEVELOPER-1e3a8a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-MLOPS%20ENTHUSIAST-1e3a8a?style=for-the-badge"/>
 
----
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AmithShetty12&label=Profile%20Views&color=1e3a8a&style=for-the-badge"/>
+<a href="https://github.com/AmithShetty12"><img src="https://img.shields.io/badge/GitHub-AmithShetty12-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/amithshetty12"><img src="https://img.shields.io/badge/LinkedIn-amithshetty12-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+## 📌 About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmithShetty12&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<p align="center">
-<a href="https://github.com/AmithShetty12">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+I am a passionate Computer Science student specializing in **Artificial Intelligence, Machine Learning**, and **Full Stack Development**. I love building smart and scalable solutions that solve real-world problems and create impact.
 
-<a href="https://www.linkedin.com/in/amithshetty12/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
+- 🎓 M.Tech in Computer Science & Engineering
+- 🧠 Machine Learning • Deep Learning • NLP • Computer Vision
+- ☁️ Exploring MLOps, Cloud & DevOps
+- 💻 Full Stack Developer
+- 🌱 Lifelong learner and tech enthusiast
+- ✨ Turning ideas into intelligent applications
 
----
+</td>
+<td width="40%" valign="top">
 
-# 💫 About Me
+<div align="center">
 
-🎓 M.Tech in Computer Science & Engineering
+### 🧠
 
-💻 Passionate about Artificial Intelligence, Machine Learning and Full Stack Development
+*"The best way to predict the future is to create it."*
 
-🤖 Interested in
+**— Alan Kay**
 
-- Machine Learning
-- Deep Learning
-- NLP
-- Computer Vision
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- MLOps
+</div>
 
-🐳 Currently Learning
+</td>
+</tr>
+</table>
 
-- Docker
-- Kubernetes
-- CI/CD
-- ML Deployment
-- Cloud Computing
+<br/>
 
-🌱 I love transforming ideas into practical software.
+## 🧰 Tech Stack
 
----
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-# 🚀 Tech Stack
+**Frameworks & Libraries**
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-## Languages
+**AI / ML / Data**
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-4B5563?style=for-the-badge"/>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css"/>
-</p>
+**Databases**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
----
+**DevOps / Tools**
+<br/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-## Frameworks
+<br/>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap"/>
-</p>
+## 📊 GitHub Stats
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=AmithShetty12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="100%"/>
+</td>
+<td width="50%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithShetty12&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+</td>
+</tr>
+</table>
 
-## AI / ML
+<img src="https://streak-stats.demolab.com/?user=AmithShetty12&theme=tokyonight&hide_border=true" width="100%"/>
 
-<p>
+<br/>
 
-- TensorFlow
-- PyTorch
-- Scikit-Learn
-- Pandas
-- NumPy
-- OpenCV
-- Hugging Face
-- LangChain
-- FAISS
+## 📈 Activity Graph
 
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmithShetty12&theme=tokyo-night&hide_border=true" width="100%"/>
 
----
+<br/>
 
-## Database
+## 🐍 Contribution Snake
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
-</p>
+<img src="https://raw.githubusercontent.com/AmithShetty12/AmithShetty12/output/github-contribution-grid-snake.svg" width="100%"/>
 
----
+> Generated automatically by the workflow below — set up once and GitHub keeps it updated daily.
 
-## DevOps
+<br/>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode"/>
-</p>
+## 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="33%" valign="top">
 
-# 📈 GitHub Statistics
+**🍯 Honey Adulteration Detection**
+<br/>
+ML model to detect adulteration in honey using machine learning & explainable AI techniques.
+<br/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square"/> <img src="https://img.shields.io/badge/-ML-blue?style=flat-square"/> <img src="https://img.shields.io/badge/-XAI-purple?style=flat-square"/>
 
-<p align="center">
+</td>
+<td width="33%" valign="top">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AmithShetty12&show_icons=true&theme=tokyonight&hide_border=true"/>
+**⚖️ Legal AI**
+<br/>
+An intelligent legal assistant for document understanding and question answering.
+<br/>
+<img src="https://img.shields.io/badge/-NLP-blue?style=flat-square"/> <img src="https://img.shields.io/badge/-RAG-orange?style=flat-square"/> <img src="https://img.shields.io/badge/-LLM-green?style=flat-square"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithShetty12&layout=compact&theme=tokyonight&hide_border=true"/>
+</td>
+<td width="33%" valign="top">
 
-</p>
+**🎓 Student Attendance Prediction**
+<br/>
+Predicting student attendance using ML algorithms and behavior analysis.
+<br/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square"/> <img src="https://img.shields.io/badge/-ML-blue?style=flat-square"/> <img src="https://img.shields.io/badge/-Data%20Analysis-yellow?style=flat-square"/>
 
----
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
-# 🔥 GitHub Streak
+**💼 Career Catalyst**
+<br/>
+AI-driven career recommendation platform using skills, interests and market trends.
+<br/>
+<img src="https://img.shields.io/badge/-ML-blue?style=flat-square"/> <img src="https://img.shields.io/badge/-NLP-blue?style=flat-square"/> <img src="https://img.shields.io/badge/-Web-teal?style=flat-square"/>
 
-<p align="center">
+</td>
+<td width="33%" valign="top">
 
-<img src="https://streak-stats.demolab.com?user=AmithShetty12&theme=tokyonight&hide_border=true"/>
+**📰 Fake News Detection**
+<br/>
+Detects fake news articles using NLP, feature engineering and ML classification.
+<br/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square"/> <img src="https://img.shields.io/badge/-NLP-blue?style=flat-square"/> <img src="https://img.shields.io/badge/-ML-blue?style=flat-square"/>
 
-</p>
+</td>
+<td width="33%" valign="top">
 
----
+</td>
+</tr>
+</table>
 
-# 📊 Contribution Graph
+<br/>
 
-<p align="center">
+## 🏆 GitHub Trophies
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmithShetty12&theme=tokyo-night&hide_border=true"/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AmithShetty12&theme=darkhub&no-frame=true&row=1&column=7"/>
+</div>
 
-</p>
+<br/>
 
----
+## 💡 Currently Exploring
 
-# 🏆 GitHub Trophies
+<img src="https://img.shields.io/badge/-Large%20Language%20Models-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-RAG%20Systems-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-AI%20Agents-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-LangGraph-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-MLOps-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Docker-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Kubernetes-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-CI%2FCD%20Pipelines-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Cloud%20Computing-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Vector%20Databases-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Fine--tuning-1e293b?style=for-the-badge"/>
 
-<p align="center">
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmithShetty12&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+## 💬 Random Dev Quote
 
-</p>
+> *"Code is like humor. When you have to explain it, it's bad."*
+> **— Cory House**
 
----
+<br/>
 
-# 🛠 Current Focus
+## 📫 Connect With Me
 
-```text
-🟢 Machine Learning
+<div align="center">
 
-🟢 Deep Learning
+Let's connect and build something amazing together!
 
-🟢 LLM Applications
+<a href="https://github.com/AmithShetty12"><img src="https://img.shields.io/badge/GitHub-AmithShetty12-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/amithshetty12"><img src="https://img.shields.io/badge/LinkedIn-amithshetty12-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-🟢 Retrieval-Augmented Generation
+</div>
 
-🟢 MLOps
-
-🟢 Docker
-
-🟢 Kubernetes
-
-🟢 Full Stack Development
-```
-
----
-
-# 🌟 Featured Projects
-
-### 🍯 Honey Adulteration Detection
-
-AI-powered honey adulteration classification using Machine Learning and Explainable AI.
-
----
-
-### ⚖️ Legal AI
-
-An intelligent legal assistant capable of document understanding and question answering.
-
----
-
-### 🎓 Student Attendance Prediction
-
-Machine Learning project for predicting student attendance patterns.
-
----
-
-### 💼 Career Catalyst
-
-AI-driven career recommendation platform using machine learning.
-
----
-
-### 📰 Fake News Detection
-
-Detects fake news articles using NLP and machine learning.
-
----
-
-# 📚 Currently Exploring
-
-- Large Language Models
-
-- AI Agents
-
-- LangGraph
-
-- RAG Systems
-
-- Fine-tuning
-
-- MLOps Pipelines
-
----
-
-# 💡 Fun Fact
-
-```python
-while(alive):
-
-    learn()
-
-    build()
-
-    improve()
-
-    repeat()
-```
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/AmithShetty12">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/amithshetty12/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-</p>
-
----
-
-# ✨ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions to generate this automatically.
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-
-  build:
-
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - uses: Platane/snk@master
-
-        with:
-
-          github_user_name: AmithShetty12
-
-          outputs: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-
-        with:
-
-          target_branch: output
-
-          build_dir: dist
-
-        env:
-
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After enabling the workflow, add
-
-```html
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/AmithShetty12/AmithShetty12/output/github-contribution-grid-snake.svg"/>
-
-</p>
-```
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</h3>
+<img src="https://capsule-render.com/api?type=waving&color=0:1a1a4a,50:2c5364,100:0f2027&height=100&section=footer&text=Thanks%20for%20visiting!%20Have%20a%20great%20day!%20%F0%9F%92%96&fontSize=16&fontColor=ffffff&fontAlignY=75" width="100%"/>
